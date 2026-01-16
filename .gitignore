@@ -1,0 +1,11 @@
+# Ignore sensitive files
+private_key.pem
+public_key.pem
+database.db
+
+# Ignore reports & generated files
+reports/
+*.sig
+
+# Ignore cache
+__pycache__/
